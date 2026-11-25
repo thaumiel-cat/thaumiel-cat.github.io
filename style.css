@@ -103,7 +103,7 @@ nav {
   padding: 1rem 1.25rem;
 }
 
-.card h3 { margin: 0 0 0.5rem; }
+.card h3 { margin: 0 0 0.5rem; overflow-wrap: anywhere; }
 .card p { margin: 0 0 0.5rem; }
 .tags { color: var(--muted); font-size: 0.875rem; }
 
